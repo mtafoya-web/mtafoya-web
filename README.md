@@ -12,7 +12,9 @@ Aspiring **Software Engineer** with a passion for building useful tools and solv
 🛠 **Tech I use**
 Python · C/C++ · Scikit-learn · NLP · Tkinter · Flask · React · Git · SQL· POWER BI
 
-🌱 **Currently learning**
+**Currently learning**
+- Django
+- AI(Games Theory, Backtracking, Constraint Satisfaction Problem Techniques)
 - Embedding-based NLP
 - Semantic matching
 - Full-stack web development
