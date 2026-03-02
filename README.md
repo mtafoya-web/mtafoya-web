@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I’m Mario Tafoya 
 
-<!--
-**mtafoya-web/mtafoya-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Software Engineer** with a passion for building useful tools and solving real-world problems.
 
-Here are some ideas to get you started:
+**What I build**
+- NLP applications like **ResumeMatcher**
+- Interactive GUI tools
+- Web apps (full-stack projects)
+- Automated analysis and ML prototypes
+- Embedded systems with microcontrollers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech I use**
+Python · C/C++ · Scikit-learn · NLP · Tkinter · Flask · React · Git · SQL· POWER BI
+
+🌱 **Currently learning**
+- Embedding-based NLP
+- Semantic matching
+- Full-stack web development
