@@ -9,7 +9,7 @@ Aspiring **Software Engineer** with a passion for building useful tools and solv
 - Automated analysis and ML prototypes
 - Embedded systems with microcontrollers
 
-🛠 **Tech I use**
+**Tech I use**
 Python · C/C++ · Scikit-learn · NLP · Tkinter · Flask · React · Git · SQL· POWER BI
 
 **Currently learning**
