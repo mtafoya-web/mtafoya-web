@@ -54,11 +54,3 @@ Aspiring **Software Engineer** focused on building practical tools and solving r
   - Focused on scalability, reliability, and real-world data engineering practices  
 
 ---
-
-## GitHub Stats
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtafoya-web&show_icons=true&theme=default)
-
----
-
-## Connect With Me
-- GitHub: https://github.com/mtafoya-web
