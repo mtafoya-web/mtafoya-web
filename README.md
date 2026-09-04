@@ -31,7 +31,7 @@
 
 ---
 
-### 👋 Hey there, I'm Mario!
+### Hey there, I'm Mario!
 
 I’m a software engineer who loves turning complex engineering problems into practical, reliable tools. My background spans **Computer Engineering (UC Irvine)** and **Computer Science (Cal State LA)**, which means I feel just as comfortable tinkering with microcontrollers and edge computer vision as I do building scalable full-stack web and mobile apps.
 
@@ -42,12 +42,12 @@ I’m a software engineer who loves turning complex engineering problems into pr
 
 ---
 
-### 🚀 Things I've Built
+### Things I've Built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://ardd-connect-app.vercel.app/">ARDD Connect</a> ⚡</h4>
+      <h4><a href="https://ardd-connect-app.vercel.app/">ARDD Connect</a> </h4>
       <p>Production full-stack conference platform featuring AI-assisted attendee navigation, real-time messaging, and social scheduling feeds across web and mobile.</p>
       <p>
         <a href="https://ardd-connect-app.vercel.app/"><img src="https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
@@ -55,7 +55,7 @@ I’m a software engineer who loves turning complex engineering problems into pr
       <sub><b>FastAPI</b> • <b>React</b> • <b>Vite</b> • <b>React Native</b> • <b>Expo</b> • <b>Neon Postgres</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://devpost.com/software/life-os-98qhp2">LifeOS</a> 🏆</h4>
+      <h4><a href="https://devpost.com/software/life-os-98qhp2">LifeOS</a> </h4>
       <p><b>Winner: Best Use of Auth0 AI Agents</b> @ Cal Poly Pomona Hackathon. Authenticated personal productivity platform automating schedules with autonomous AI agents.</p>
       <p>
         <a href="https://devpost.com/software/life-os-98qhp2"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" alt="Devpost" /></a>
@@ -66,7 +66,7 @@ I’m a software engineer who loves turning complex engineering problems into pr
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/mtafoya-web/project_TALUS">TALUS</a> 🪐</h4>
+      <h4><a href="https://github.com/mtafoya-web/project_TALUS">TALUS</a> </h4>
       <p>Planetary rover simulation in ROS 2 & Webots paired with an ONNX deep learning inference pipeline projecting real-time hazardous terrain risk costmaps.</p>
       <p>
         <a href="https://github.com/mtafoya-web/project_TALUS"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -74,7 +74,7 @@ I’m a software engineer who loves turning complex engineering problems into pr
       <sub><b>Python</b> • <b>C++</b> • <b>ROS 2</b> • <b>Webots</b> • <b>ONNX Runtime</b> • <b>Tkinter</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/mtafoya-web/BRDG">BRDG Wildfire Mitigation</a> 🔥</h4>
+      <h4><a href="https://github.com/mtafoya-web/BRDG">BRDG Wildfire Mitigation</a> </h4>
       <p>Semi-autonomous edge wildfire detection on Raspberry Pi 5. Custom YOLO detector trained on 4,306 images with <b>76.4% precision</b> and <b>6ms inference latency</b>.</p>
       <p>
         <a href="https://github.com/mtafoya-web/BRDG"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -85,7 +85,7 @@ I’m a software engineer who loves turning complex engineering problems into pr
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://repo2site.vercel.app/">repo2Site</a> 🌐</h4>
+      <h4><a href="https://repo2site.vercel.app/">repo2Site</a> </h4>
       <p>AI-powered portfolio generator that transforms public GitHub profiles and repositories into customizable personal websites with a live in-browser editor.</p>
       <p>
         <a href="https://repo2site.vercel.app/"><img src="https://img.shields.io/badge/Live_App-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
@@ -115,7 +115,7 @@ I’m a software engineer who loves turning complex engineering problems into pr
 
 ---
 
-### 💡 What Drives Me
+###  What Drives Me
 
 - **Bridging Hardware & Software:** Connecting sensors, cameras, and embedded microcontrollers to modern, cloud-native web backends.
 - **Solving Tangible Problems:** Building software that saves real time (like reducing safety collection hours by 75%).
@@ -123,12 +123,12 @@ I’m a software engineer who loves turning complex engineering problems into pr
 
 ---
 
-### 📚 Currently Exploring
+###  Currently Exploring
 
-- 🌐 Scalable microservices with **Django**
-- 🧠 Advanced **Data Structures & Algorithms** for large-scale systems
-- 🤖 Applied AI concepts: **Game Theory, Backtracking & Constraint Satisfaction**
-- 🔍 Semantic NLP: **Embedding-based vector retrieval & semantic similarity**
+- Scalable microservices with **Django**
+- Advanced **Data Structures & Algorithms** for large-scale systems
+- Applied AI concepts: **Game Theory, Backtracking & Constraint Satisfaction**
+- Semantic NLP: **Embedding-based vector retrieval & semantic similarity**
 
 ---
 
