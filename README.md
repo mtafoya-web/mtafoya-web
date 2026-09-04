@@ -1,216 +1,144 @@
 <div align="center">
 
-# Mario Tafoya
-**Software Engineer** • *Full-Stack Systems & Edge AI*  
-Los Angeles, CA &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/mariotafoya) &nbsp;•&nbsp; [Email](mailto:tafoya1897@gmail.com) &nbsp;•&nbsp; [GitHub](https://github.com/mtafoya-web)
+<!-- Sleek Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e1b4b,4338ca,06b6d4&height=180&section=header&text=Mario%20Tafoya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Builder%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Edge%20AI%20Explorer&descSize=16&descAlignY=64&descAlign=50" width="100%" alt="Header" />
 
+<!-- Dynamic Animated Typing -->
 <p align="center">
-  <a href="https://github.com/mtafoya-web">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Platforms+(FastAPI+%2B+React+%2B+Next.js);Edge+Computer+Vision+(Ultralytics+YOLO+%2B+OpenCV);Autonomous+Robotics+Simulation+(ROS+2+%2B+ONNX);M.S.+Computer+Science+%40+CSULA+(GPA%3A+3.8)" alt="Typing Banner" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+impactful+tools+from+silicon+to+the+cloud;Full-Stack+Web+%26+Mobile+Platforms;Real-Time+Edge+Vision+(Ultralytics+YOLO+%2B+OpenCV);Autonomous+Rover+Simulations+in+ROS+2" alt="Typing Animation" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mariotafoya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariotafoya)
-[![GitHub](https://img.shields.io/badge/GitHub-mtafoya--web-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mtafoya-web)
-[![Email](https://img.shields.io/badge/Email-tafoya1897%40gmail.com-D93025?style=flat-square&logo=gmail&logoColor=white)](mailto:tafoya1897@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-10B981?style=flat-square)](mailto:tafoya1897@gmail.com)
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mariotafoya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mtafoya-web" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:tafoya1897@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://devpost.com/software/life-os-98qhp2" target="_blank">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### Overview
+### 👋 Hey there, I'm Mario!
 
-Software Engineer with a dual foundation in **Computer Engineering (B.S., UC Irvine)** and **Computer Science (M.S., Cal State LA, GPA 3.8)**. Experienced in architecting end-to-end full-stack applications, edge computer vision pipelines, and robotics simulations. Focused on delivering production-grade tools that eliminate operational friction and deliver measurable efficiency.
+I’m a software engineer who loves turning complex engineering problems into practical, reliable tools. My background spans **Computer Engineering (UC Irvine)** and **Computer Science (Cal State LA)**, which means I feel just as comfortable tinkering with microcontrollers and edge computer vision as I do building scalable full-stack web and mobile apps.
 
-- **Graduate Studies**: M.S. in Computer Science at California State University, Los Angeles *(GPA: 3.8 / 4.0, Expected June 2027)*
-- **Undergraduate Studies**: B.S. in Computer Engineering from University of California, Irvine *(September 2023)*
-- **Current Role**: Machine Learning Assistant at CSULA Risk Management & Environmental Health and Safety Office
-- **Hackathon Recognition**: Won **Best Use of Auth0 AI Agents** at Cal Poly Pomona Hackathon
-
----
-
-### Work Experience
-
-#### **Machine Learning Assistant** | CSULA Risk Management & EHS Office &nbsp;•&nbsp; *June 2026 – Present*
-
-| Metric | Result | Context |
-| :--- | :---: | :--- |
-| **Data Collection Latency** | **-75%** | Replaced legacy MATLAB inventory system with browser-based RFID app (8 hrs &rarr; 2 hrs) |
-| **Manual Processing Overhead** | **-70%** | Built secure Graph API notification tool; distributed as standalone zero-setup Windows binary |
-| **Document Digitization** | **300+** | Automated legacy record ingestion into structured database via OCR image parsing |
-| **Edge Vision Training** | **400+** | Trained custom YOLO 5-class detection model; built Jetson Nano + FLIR camera prototype |
-
-- Engineered a browser-based RFID inventory application replacing a legacy MATLAB process, cutting field collection time by 75%.
-- Architected a notification pipeline utilizing Microsoft Auth, Graph APIs, and NumPy filtering, packaged via PyInstaller as a standalone executable for zero-setup non-technical deployment.
-- Implemented an OCR data ingestion workflow to autonomously classify and transition 300+ physical chemical records into a relational database.
-- Trained and optimized custom Ultralytics YOLO models on a partitioned dataset of 400+ annotated images for multi-class container and barcode detection.
-- Prototyped a handheld edge AI system integrating an Nvidia Jetson Nano, Teledyne FLIR SDK, and Flask for real-time inventory logging.
+<p align="center">
+  <code>[Embedded Hardware / Edge AI]</code> ➔ <code>[High-Speed APIs & DBs]</code> ➔ <code>[Reactive Web & Mobile]</code><br/>
+  <sub>Jetson Nano • Pi 5 • ROS 2 • C++ &nbsp;|&nbsp; FastAPI • Flask • Postgres • Redis &nbsp;|&nbsp; React • Vite • Next.js 19</sub>
+</p>
 
 ---
 
-### Featured Projects
+### 🚀 Things I've Built
 
 <table>
-  <thead>
-    <tr>
-      <th width="33%">Project</th>
-      <th width="47%">Architecture & Highlights</th>
-      <th width="20%">Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>ARDD Connect</b><br/>
-        <sub>Conference Platform</sub><br/><br/>
-        <a href="https://ardd-connect-app.vercel.app/"><img src="https://img.shields.io/badge/Live_App-000?style=flat-square&logo=vercel&logoColor=white" alt="Live App" /></a>
-      </td>
-      <td>
-        • Production full-stack conference platform serving web and mobile clients for AI-assisted navigation, session management, and attendee networking.<br/>
-        • Implemented secure JWT auth, relational schemas in Neon Postgres, notification dispatchers, and media upload workflows.
-      </td>
-      <td>
-        <code>FastAPI</code><br/>
-        <code>React</code><br/>
-        <code>Vite</code><br/>
-        <code>React Native</code><br/>
-        <code>Expo</code><br/>
-        <code>PostgreSQL</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>LifeOS</b><br/>
-        <sub>Productivity Platform</sub><br/><br/>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://ardd-connect-app.vercel.app/">ARDD Connect</a> ⚡</h4>
+      <p>Production full-stack conference platform featuring AI-assisted attendee navigation, real-time messaging, and social scheduling feeds across web and mobile.</p>
+      <p>
+        <a href="https://ardd-connect-app.vercel.app/"><img src="https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      </p>
+      <sub><b>FastAPI</b> • <b>React</b> • <b>Vite</b> • <b>React Native</b> • <b>Expo</b> • <b>Neon Postgres</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://devpost.com/software/life-os-98qhp2">LifeOS</a> 🏆</h4>
+      <p><b>Winner: Best Use of Auth0 AI Agents</b> @ Cal Poly Pomona Hackathon. Authenticated personal productivity platform automating schedules with autonomous AI agents.</p>
+      <p>
         <a href="https://devpost.com/software/life-os-98qhp2"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" alt="Devpost" /></a>
-        <img src="https://img.shields.io/badge/Award-Best_Use_of_AI_Agents-F59E0B?style=flat-square" alt="Award" />
-      </td>
-      <td>
-        • <b>Cal Poly Pomona Hackathon Winner</b>: Best Use of Auth0 AI Agents.<br/>
-        • Developed autonomous task and calendar scheduling workflows powered by Auth0 AI Agents, Gemini AI, and Google APIs with persistent database state.
-      </td>
-      <td>
-        <code>React</code><br/>
-        <code>TypeScript</code><br/>
-        <code>Tailwind CSS</code><br/>
-        <code>Auth0</code><br/>
-        <code>Gemini AI</code><br/>
-        <code>Neon Postgres</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>TALUS</b><br/>
-        <sub>Terrain Traversability Analysis</sub><br/><br/>
-        <a href="https://github.com/mtafoya-web/project_TALUS"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-      </td>
-      <td>
-        • Designed an end-to-end ROS 2 and Webots simulation environment to model and evaluate planetary rover terrain traversability.<br/>
-        • Engineered an ONNX Runtime deep learning inference pipeline and custom GUI for real-time terrain risk costmap projection.
-      </td>
-      <td>
-        <code>Python</code><br/>
-        <code>C++</code><br/>
-        <code>ROS 2</code><br/>
-        <code>Webots</code><br/>
-        <code>ONNX</code><br/>
-        <code>Tkinter</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>repo2Site</b><br/>
-        <sub>Portfolio Generator</sub><br/><br/>
-        <a href="https://repo2site.vercel.app/"><img src="https://img.shields.io/badge/Live_App-000?style=flat-square&logo=vercel&logoColor=white" alt="Live App" /></a>
-      </td>
-      <td>
-        • Engineered a platform converting public GitHub repositories and profiles into fully customizable personal portfolio websites.<br/>
-        • Built an interactive in-browser editor with AI copy refinement (OpenAI API), dynamic theme templates, and static ZIP bundle export.
-      </td>
-      <td>
-        <code>Next.js 19</code><br/>
-        <code>React</code><br/>
-        <code>TypeScript</code><br/>
-        <code>Tailwind CSS</code><br/>
-        <code>OpenAI API</code><br/>
-        <code>Upstash Redis</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>BRDG Wildfire Mitigation</b><br/>
-        <sub>Edge Detection System</sub><br/><br/>
-        <a href="https://github.com/mtafoya-web/BRDG"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-        <img src="https://img.shields.io/badge/Inference-6ms-success?style=flat-square" alt="6ms" />
-      </td>
-      <td>
-        • Architected a Raspberry Pi 5 subsystem with dedicated AI Kit for low-latency edge sensor processing.<br/>
-        • Trained a YOLO fire and smoke classifier on 4,306 images: achieved <b>76.4% precision</b>, <b>69.8% recall</b>, and 6ms inference latency per frame.
-      </td>
-      <td>
-        <code>Python</code><br/>
-        <code>Ultralytics YOLO</code><br/>
-        <code>OpenCV</code><br/>
-        <code>PyTorch</code><br/>
-        <code>Raspberry Pi 5</code><br/>
-        <code>TypeScript</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>JWA Airport Analytics</b><br/>
-        <sub>Data Pipeline & BI</sub><br/><br/>
-        <a href="https://github.com/mtafoya-web/JohnWayneAirport-performance-analytics"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-      </td>
-      <td>
-        • Developed an automated Python ETL pipeline to ingest, clean, and structure real-time flight operations data from John Wayne Airport.<br/>
-        • Designed executive Power BI dashboards to track operational KPIs, traffic distribution, and delay patterns.
-      </td>
-      <td>
-        <code>Python</code><br/>
-        <code>Pandas</code><br/>
-        <code>Requests</code><br/>
-        <code>Jupyter</code><br/>
-        <code>Power BI</code>
-      </td>
-    </tr>
-  </tbody>
+        <img src="https://img.shields.io/badge/Award-1st_Place-F59E0B?style=flat-square" alt="Award" />
+      </p>
+      <sub><b>React</b> • <b>TypeScript</b> • <b>Auth0</b> • <b>Gemini AI</b> • <b>Neon Postgres</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mtafoya-web/project_TALUS">TALUS</a> 🪐</h4>
+      <p>Planetary rover simulation in ROS 2 & Webots paired with an ONNX deep learning inference pipeline projecting real-time hazardous terrain risk costmaps.</p>
+      <p>
+        <a href="https://github.com/mtafoya-web/project_TALUS"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+      </p>
+      <sub><b>Python</b> • <b>C++</b> • <b>ROS 2</b> • <b>Webots</b> • <b>ONNX Runtime</b> • <b>Tkinter</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mtafoya-web/BRDG">BRDG Wildfire Mitigation</a> 🔥</h4>
+      <p>Semi-autonomous edge wildfire detection on Raspberry Pi 5. Custom YOLO detector trained on 4,306 images with <b>76.4% precision</b> and <b>6ms inference latency</b>.</p>
+      <p>
+        <a href="https://github.com/mtafoya-web/BRDG"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+        <img src="https://img.shields.io/badge/Edge-6ms_Latency-success?style=flat-square" alt="Latency" />
+      </p>
+      <sub><b>Python</b> • <b>Ultralytics YOLO</b> • <b>OpenCV</b> • <b>PyTorch</b> • <b>Raspberry Pi 5</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://repo2site.vercel.app/">repo2Site</a> 🌐</h4>
+      <p>AI-powered portfolio generator that transforms public GitHub profiles and repositories into customizable personal websites with a live in-browser editor.</p>
+      <p>
+        <a href="https://repo2site.vercel.app/"><img src="https://img.shields.io/badge/Live_App-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      </p>
+      <sub><b>Next.js 19</b> • <b>React</b> • <b>TypeScript</b> • <b>Tailwind CSS</b> • <b>OpenAI API</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mtafoya-web/JohnWayneAirport-performance-analytics">JWA Airport Analytics</a> ✈️</h4>
+      <p>Automated Python data pipeline ingesting and cleaning real-time flight telemetry from John Wayne Airport, visualized through interactive Power BI dashboards.</p>
+      <p>
+        <a href="https://github.com/mtafoya-web/JohnWayneAirport-performance-analytics"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+      </p>
+      <sub><b>Python</b> • <b>Pandas</b> • <b>Requests</b> • <b>Power BI</b></sub>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### Technical Skills
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, C++, C, Java, SQL |
-| **Frontend & Mobile** | React, React Native, Next.js (App Router), Vite, Tailwind CSS, Expo, Flutter |
-| **Backend & Databases** | FastAPI, Flask, Spring Boot, REST APIs, PostgreSQL, Neon Postgres, Redis, Pandas, NumPy |
-| **AI & Computer Vision** | Ultralytics YOLO, OpenCV, PyTorch, ROS 2, Webots, ONNX Runtime, Gemini AI, OpenAI API, CUDA |
-| **Systems & Tools** | Linux (Ubuntu), Git, Nvidia Jetson Nano, Raspberry Pi 5, Teledyne FLIR SDK, PyInstaller, Power BI, Jira |
-
----
-
-### Education & Certifications
-
-- **Master of Science in Computer Science** &nbsp;|&nbsp; California State University, Los Angeles &nbsp;•&nbsp; *GPA: 3.8 / 4.0 (Expected June 2027)*
-- **Bachelor of Science in Computer Engineering** &nbsp;|&nbsp; University of California, Irvine &nbsp;•&nbsp; *September 2023*
-- **IBM Professional Certificate**: *Build an AI Agent* *(Issued May 2026, Expires May 2028)*
-- **Walmart Global Tech**: *Advanced Software Engineering Job Simulation Completion* *(July 2026)*
-
----
-
-### GitHub Metrics
+### 🛠️ Languages & Technologies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtafoya-web&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtafoya-web&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,java,react,nextjs,tailwind,fastapi,flask,postgres,pytorch,opencv,ros,linux,git,raspberrypi&perline=9&theme=dark" alt="Tech Stack" />
+  </a>
 </div>
 
 ---
 
+### 💡 What Drives Me
+
+- **Bridging Hardware & Software:** Connecting sensors, cameras, and embedded microcontrollers to modern, cloud-native web backends.
+- **Solving Tangible Problems:** Building software that saves real time (like reducing safety collection hours by 75%).
+- **Continuous Curiosity:** Always hacking on emerging AI agent frameworks, vision models, and distributed systems.
+
+---
+
+### 📚 Currently Exploring
+
+- 🌐 Scalable microservices with **Django**
+- 🧠 Advanced **Data Structures & Algorithms** for large-scale systems
+- 🤖 Applied AI concepts: **Game Theory, Backtracking & Constraint Satisfaction**
+- 🔍 Semantic NLP: **Embedding-based vector retrieval & semantic similarity**
+
+---
+
 <div align="center">
-  <sub>Mario Tafoya • <a href="mailto:tafoya1897@gmail.com">tafoya1897@gmail.com</a> • <a href="https://www.linkedin.com/in/mariotafoya">linkedin.com/in/mariotafoya</a> • <a href="https://github.com/mtafoya-web">github.com/mtafoya-web</a></sub>
+
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e1b4b,4338ca,06b6d4&height=100&section=footer" width="100%" alt="Footer Wave" />
+
+<p>
+  <sub>Got an interesting idea or project? Let's talk &rarr; <a href="mailto:tafoya1897@gmail.com">tafoya1897@gmail.com</a></sub>
+</p>
+
 </div>
